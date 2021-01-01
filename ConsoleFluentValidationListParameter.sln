@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleFluentValidationListParameter", "ConsoleFluentValidationListParameter\ConsoleFluentValidationListParameter.csproj", "{7B2F5AF3-459C-4A8A-BDE4-257CCC3B7034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B2F5AF3-459C-4A8A-BDE4-257CCC3B7034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2F5AF3-459C-4A8A-BDE4-257CCC3B7034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2F5AF3-459C-4A8A-BDE4-257CCC3B7034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2F5AF3-459C-4A8A-BDE4-257CCC3B7034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66631F4E-0149-4545-8A4E-744A4B4BF2A3}
+	EndGlobalSection
+EndGlobal
